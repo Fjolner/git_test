@@ -1,1 +1,4 @@
 Adding some text here, to see if i can stage multible files with git add .
+
+
+testing the git commit in vscode
